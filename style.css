@@ -1,0 +1,20 @@
+body {background-color: rgb(39, 255, 237);}
+figure.block {
+    /*display:block;*/
+    width: 29.3%;
+    border: .5em rgba(255, 0, 98, 0.774) solid;
+    margin: 1%;
+    padding: 10px;
+    box-sizing: border-box;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    
+  }
+  img{
+    height: 300px;
+    width: 350px;
+  }
+  .caption{
+      display: inline-block;
+  }
